@@ -1,0 +1,3 @@
+﻿  Rabota2.cpp
+i:\rabota2\rabota2\rabota2.cpp(141): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Rabota2.vcxproj -> I:\Rabota2\Debug\Rabota2.exe
